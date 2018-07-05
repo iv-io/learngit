@@ -1,1 +1,2 @@
 just for a test.
+test for a new line.
