@@ -1,1 +1,2 @@
 a new test opened by vim.
+And hahahahahah!
