@@ -1,2 +1,6 @@
 a new test opened by vim.
+<<<<<<< HEAD
 And hahahahahah!
+=======
+And edited by vim.
+>>>>>>> feather
